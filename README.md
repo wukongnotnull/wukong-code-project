@@ -5,7 +5,7 @@ Claude Code skill：悟空的项目协作规则（SDD、TDD、根因调试、完
 ## 安装
 
 ```bash
-git clone https://github.com/wukongnotnull/wukong-code-projects ~/.claude/skills/wukong-code-projects
+git clone https://github.com/wukongnotnull/wukong-code-project ~/.claude/skills/wukong-code-projects
 ```
 
 之后在任何项目里，Claude 遇到写 spec、写代码、修 Bug、提交 / 开 PR、建 issue 等场景会自动加载。
