@@ -1,9 +1,9 @@
 ---
-name: wukong-code-projects
+name: wukong-code-project
 description: 悟空的项目协作规则：规范驱动开发（SDD）、测试先行（TDD）、根因调试、完成前验证、GitHub issue 记录与 Project 看板同步。在任何代码项目里写需求/spec/计划、写或改功能代码、修 Bug、重构、声称完成、提交或开 PR、建 issue 时使用。
 ---
 
-# wukong-code-projects
+# wukong-code-project
 
 通用项目协作规则，适用于任何代码仓库。以下规则每次都要遵守；细则在 `references/` 下，做对应的事之前先读相应文件，不需要时不必读。
 
