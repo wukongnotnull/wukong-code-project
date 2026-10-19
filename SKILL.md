@@ -21,6 +21,7 @@ description: 悟空的项目协作规则：规范驱动开发（SDD）、测试�
 
 | 什么时候 | 读哪个文件 |
 | --- | --- |
+| 新功能或较大行为变更，要写产品需求文档（做什么、为什么、验收标准） | [references/prd.md](references/prd.md) |
 | 新功能、行为变更或需求不清，要写 spec 或实施计划 | [references/sdd.md](references/sdd.md) |
 | 用户明确要求逐题追问、深入澄清 | [references/grilling.md](references/grilling.md) |
 | 写或改功能代码、修 Bug、重构 | [references/tdd.md](references/tdd.md)、[references/coding.md](references/coding.md) |
